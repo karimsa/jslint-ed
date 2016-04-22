@@ -1,0 +1,24 @@
+{
+  "name": "jslint-ed",
+  "version": "1.0.0",
+  "description": "all the JSLint editions in one package.",
+  "main": "jslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsa/jslint-ed.git"
+  },
+  "keywords": [
+    "jslint",
+    "editions",
+    "versions"
+  ],
+  "author": "Karim Alibhai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimsa/jslint-ed/issues"
+  },
+  "homepage": "https://github.com/karimsa/jslint-ed#readme"
+}
